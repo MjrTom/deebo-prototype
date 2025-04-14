@@ -26,7 +26,7 @@
     "@modelcontextprotocol/server-filesystem": "^2025.1.14",
     "@wonderwhy-er/desktop-commander": "^0.1.31",
     "cors": "^2.8.5",
-    "dockerode": "^4.0.0",
+    "dockerode": "^4.0.5",
     "dotenv": "^16.4.7",
     "express": "^5.0.1",
     "openai": "^4.91.1",
