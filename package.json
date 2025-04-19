@@ -41,7 +41,7 @@
     "@types/dockerode": "^3.3.23",
     "@types/express": "^5.0.1",
     "@types/node": "^22.13.14",
-    "@types/uuid": "^9.0.8",
+    "@types/uuid": "^10.0.0",
     "typescript": "^5.8.2"
   },
   "resolutions": {
