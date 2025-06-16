@@ -39,7 +39,7 @@
     "@types/cors": "^2.8.17",
     "@types/dockerode": "^3.3.23",
     "@types/express": "^5.0.1",
-    "@types/node": "^22.13.14",
+    "@types/node": "^24.0.3",
     "@types/uuid": "^9.0.8",
     "typescript": "^5.8.2"
   },
