@@ -23,7 +23,7 @@
     "@wonderwhy-er/desktop-commander": "^0.2.3",
     "cors": "^2.8.5",
     "dockerode": "^4.0.0",
-    "dotenv": "^16.4.7",
+    "dotenv": "^17.0.1",
     "express": "^5.0.1",
     "openai": "^5.8.2",
     "p-limit": "^6.2.0",
