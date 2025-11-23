@@ -139,7 +139,7 @@ jobs:
           ls -R memory-bank/${PROJECT_ID}/sessions/${SESSION_ID}
 
       - name: Upload session logs
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: session-logs
           path: memory-bank/${{ env.PROJECT_ID }}/sessions/${{ env.SESSION_ID }}/logs/
